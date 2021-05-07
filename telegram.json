@@ -1,0 +1,21 @@
+[
+  {
+    "iyahn:keti123": {
+      "telegram": {
+        "token": "input_your_token_of_telegram",
+        "chatid": ["your_chat_id", "your_chat_id"],
+        "cnt_path": [
+          "/Mobius/keti_yskim/update"
+        ],
+        "post" : [
+          "/Mobius/keti_yskim/led"
+        ],
+        "get" : [
+          "/Mobius/keti_yskim/co2"
+        ],
+        "rule" : [
+        ]
+      }
+    }
+  }
+]
